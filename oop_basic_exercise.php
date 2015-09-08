@@ -50,7 +50,7 @@ $acountant->processMonthlySalary($acountant->salary);
  * In decent PHP OOP properties are accessed and set via methods called accessors and mutators.
  * Thus we are providing a single point for accessing and setting that property.
  * You need some practice to realize how important these methods really are.
- * One this path you will never go back.
+ * On this path you will never go back.
  */
 class Dog {
 
